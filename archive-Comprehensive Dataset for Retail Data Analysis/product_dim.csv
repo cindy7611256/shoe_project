@@ -1,0 +1,12 @@
+product_id,Shoe_model,Shoe _Type,Gender,Cost
+P0001,Doe Runner,Running,F,28
+P0002,Doe Trek,Hiking,F,32
+P0004,Doe Canvas,Casual,F,18
+P0005,Doe Vintage,Limited,F,45
+P0006,Doe Slip-On,Casual,F,15
+P0007,Doe Runner,Running,F,30
+P0008,Doe Trek,Hiking,M,35
+P0009,Doe Canvas,Casual,M,20
+P0010,Doe Vintage,Limited,M,48
+P0011,Doe Slip-On,Casual,M,17
+P0012,Doe Air,Running,M,33
